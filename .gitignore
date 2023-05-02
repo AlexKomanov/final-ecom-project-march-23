@@ -33,3 +33,9 @@ bin/
 
 # .iml config file
 FinalProjectEcomMarch22.iml
+
+# target folder
+target
+
+# test-output folder
+test-output
